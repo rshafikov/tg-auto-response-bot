@@ -1,0 +1,13 @@
+services:
+  bot:
+    container_name: tg-bot
+    build:
+      context: .
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./main.py:/app/main.py
+      - ./.env:/app/.env
+    stdin_open: true
+    tty: true
+    command: uv run main.py --run --timer 600
