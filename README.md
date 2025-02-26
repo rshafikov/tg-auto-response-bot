@@ -1,13 +1,15 @@
 # Telegram Auto-Response Bot
 
-This is a simple Telegram bot built with Telethon that listens for specific messages in a Telegram chat and responds automatically.
+This is a simple Telegram bot (literally one file)
+built with Telethon that listens for specific messages in a Telegram chat
+and responds automatically.
 
 ## Features
-- Listens for messages matching a specific regex **pattern**, **user** and **chat**.
-- Responds with a `+` to matched messages (you can change it).
+- Listen for messages matching a specific regex **pattern**, **user** and **chat**.
+- Respond with a `+` to matched messages (you can change it).
 - Can be configured via `.env` file.
-- Supports listing chats and viewing the bot's profile.
-- Runs for a specified duration before disconnecting automatically.
+- Support listing chats and viewing the bot's profile.
+- Run for a specified duration before disconnecting automatically.
 
 ## Requirements
 - [Docker](https://www.docker.com/get-started/)

@@ -1,0 +1,87 @@
+[WARNING/2025-02-26 15:36:22,001] __main__: start: 2025-02-26 15:36:22.001661
+[WARNING/2025-02-26 15:36:22,003] __main__: end: 2025-03-08 14:29:42.003262
+[WARNING/2025-02-26 15:36:22,003] __main__: Starting bot...
+[WARNING/2025-02-26 15:36:22,003] __main__: ==================== USERS ====================
+[WARNING/2025-02-26 15:36:22,469] __main__: chat 'Анастасия Иванова' -> ID: 505261777
+[WARNING/2025-02-26 15:36:22,469] __main__: chat 'Ramil Shafikov' -> ID: 306732876
+[WARNING/2025-02-26 15:36:22,718] __main__: chat 'Pavel Che' -> ID: 207985542
+[WARNING/2025-02-26 15:36:22,718] __main__: chat 'Ramil Shafikov' -> ID: 5749616917
+[WARNING/2025-02-26 15:36:22,952] __main__: chat 'E\uf076genᴵᴵ' -> ID: 2106307527
+[WARNING/2025-02-26 15:36:24,719] __main__: ==================== CHATS ====================
+[WARNING/2025-02-26 15:36:25,124] __main__: chat 'Volleyball training 2Y' -> ID: -1001946387614
+[WARNING/2025-02-26 15:36:25,124] __main__: chat 'volleybal_test' -> ID: -4725404570
+[WARNING/2025-02-26 15:36:25,124] __main__: chat 'Belgrade Volleyball' -> ID: -1001666245092
+[WARNING/2025-02-26 15:36:28,174] __main__: ==================== PATTERN ====================
+[WARNING/2025-02-26 15:36:28,175] __main__: .*всем.*
+[WARNING/2025-02-26 15:36:28,175] __main__: Bot started:
+[WARNING/2025-02-26 15:37:25,003] __main__: Closing bot...
+[WARNING/2025-02-26 16:33:05,085] __main__: start: 2025-02-26 16:33:05.085783
+[WARNING/2025-02-26 16:33:05,087] __main__: end: 2025-02-26 17:33:05.087023
+[WARNING/2025-02-26 16:33:05,087] __main__: Starting bot...
+[WARNING/2025-02-26 16:33:05,087] __main__: ==================== USERS ====================
+[WARNING/2025-02-26 16:33:05,603] __main__: chat 'Анастасия Иванова' -> ID: 505261777
+[WARNING/2025-02-26 16:33:05,604] __main__: chat 'Ramil Shafikov' -> ID: 306732876
+[WARNING/2025-02-26 16:33:05,878] __main__: chat 'Pavel Che' -> ID: 207985542
+[WARNING/2025-02-26 16:33:05,878] __main__: chat 'Ramil Shafikov' -> ID: 5749616917
+[WARNING/2025-02-26 16:33:06,128] __main__: chat 'E\uf076genᴵᴵ' -> ID: 2106307527
+[WARNING/2025-02-26 16:33:07,892] __main__: ==================== CHATS ====================
+[WARNING/2025-02-26 16:33:08,339] __main__: chat 'Volleyball training 2Y' -> ID: -1001946387614
+[WARNING/2025-02-26 16:33:08,339] __main__: chat 'Belgrade Volleyball' -> ID: -1001666245092
+[WARNING/2025-02-26 16:33:08,339] __main__: chat 'volleybal_test' -> ID: -4725404570
+[WARNING/2025-02-26 16:33:10,543] __main__: ==================== PATTERN ====================
+[WARNING/2025-02-26 16:33:10,543] __main__: .*всем.*
+[WARNING/2025-02-26 16:33:10,544] __main__: Bot started:
+[WARNING/2025-02-26 16:33:39,498] __main__: REPLY to: PeerUser(user_id=5749616917)
+[WARNING/2025-02-26 16:33:45,264] __main__: SKIP message: 'вфыфвыфв'
+[WARNING/2025-02-26 16:34:30,939] __main__: Closing bot...
+[WARNING/2025-02-26 16:37:43,160] __main__: Received keyboard interrupt.
+[WARNING/2025-02-26 16:38:24,256] __main__: start: 2025-02-26 16:38:24.256531
+[WARNING/2025-02-26 16:38:24,256] __main__: end: 2025-02-26 17:38:24.256909
+[WARNING/2025-02-26 16:38:24,257] __main__: Starting bot...
+[WARNING/2025-02-26 16:38:24,257] __main__: ==================== USERS ====================
+[WARNING/2025-02-26 16:38:24,804] __main__: chat 'Анастасия Иванова' -> ID: 505261777
+[WARNING/2025-02-26 16:38:24,804] __main__: chat 'Ramil Shafikov' -> ID: 306732876
+[WARNING/2025-02-26 16:38:25,065] __main__: chat 'Pavel Che' -> ID: 207985542
+[WARNING/2025-02-26 16:38:25,065] __main__: chat 'Ramil Shafikov' -> ID: 5749616917
+[WARNING/2025-02-26 16:38:25,363] __main__: chat 'E\uf076genᴵᴵ' -> ID: 2106307527
+[WARNING/2025-02-26 16:38:27,567] __main__: ==================== CHATS ====================
+[WARNING/2025-02-26 16:38:28,025] __main__: chat 'Volleyball training 2Y' -> ID: -1001946387614
+[WARNING/2025-02-26 16:38:28,025] __main__: chat 'volleybal_test' -> ID: -4725404570
+[WARNING/2025-02-26 16:38:28,025] __main__: chat 'Belgrade Volleyball' -> ID: -1001666245092
+[WARNING/2025-02-26 16:38:30,685] __main__: ==================== PATTERN ====================
+[WARNING/2025-02-26 16:38:30,686] __main__: .*всем.*
+[WARNING/2025-02-26 16:38:30,687] __main__: Bot started:
+[WARNING/2025-02-26 16:39:19,487] __main__: Closing bot...
+[WARNING/2025-02-26 16:39:41,739] __main__: start: 2025-02-26 16:39:41.739505
+[WARNING/2025-02-26 16:39:41,741] __main__: end: 2025-02-26 17:39:41.741128
+[WARNING/2025-02-26 16:39:41,741] __main__: Starting bot...
+[WARNING/2025-02-26 16:39:41,741] __main__: ==================== USERS ====================
+[WARNING/2025-02-26 16:39:42,342] __main__: chat 'Анастасия Иванова' -> ID: 505261777
+[WARNING/2025-02-26 16:39:42,343] __main__: chat 'Ramil Shafikov' -> ID: 306732876
+[WARNING/2025-02-26 16:39:42,647] __main__: chat 'Pavel Che' -> ID: 207985542
+[WARNING/2025-02-26 16:39:42,647] __main__: chat 'Ramil Shafikov' -> ID: 5749616917
+[WARNING/2025-02-26 16:39:42,861] __main__: chat 'E\uf076genᴵᴵ' -> ID: 2106307527
+[WARNING/2025-02-26 16:39:44,690] __main__: ==================== CHATS ====================
+[WARNING/2025-02-26 16:39:45,123] __main__: chat 'Volleyball training 2Y' -> ID: -1001946387614
+[WARNING/2025-02-26 16:39:45,123] __main__: chat 'volleybal_test' -> ID: -4725404570
+[WARNING/2025-02-26 16:39:45,123] __main__: chat 'Belgrade Volleyball' -> ID: -1001666245092
+[WARNING/2025-02-26 16:39:47,162] __main__: ==================== PATTERN ====================
+[WARNING/2025-02-26 16:39:47,162] __main__: .*всем.*
+[WARNING/2025-02-26 16:39:47,163] __main__: Bot started:
+[WARNING/2025-02-26 16:46:40,394] __main__: start: 2025-02-26 16:46:40.394126
+[WARNING/2025-02-26 16:46:40,395] __main__: end: 2025-02-26 17:46:40.395849
+[WARNING/2025-02-26 16:46:40,396] __main__: Starting bot...
+[WARNING/2025-02-26 16:46:40,396] __main__: ==================== USERS ====================
+[WARNING/2025-02-26 16:46:40,843] __main__: chat 'Анастасия Иванова' -> ID: 505261777
+[WARNING/2025-02-26 16:46:40,843] __main__: chat 'Ramil Shafikov' -> ID: 306732876
+[WARNING/2025-02-26 16:46:41,105] __main__: chat 'Pavel Che' -> ID: 207985542
+[WARNING/2025-02-26 16:46:41,105] __main__: chat 'Ramil Shafikov' -> ID: 5749616917
+[WARNING/2025-02-26 16:46:41,392] __main__: chat 'E\uf076genᴵᴵ' -> ID: 2106307527
+[WARNING/2025-02-26 16:46:43,104] __main__: ==================== CHATS ====================
+[WARNING/2025-02-26 16:46:43,452] __main__: chat 'Volleyball training 2Y' -> ID: -1001946387614
+[WARNING/2025-02-26 16:46:43,452] __main__: chat 'volleybal_test' -> ID: -4725404570
+[WARNING/2025-02-26 16:46:43,452] __main__: chat 'Belgrade Volleyball' -> ID: -1001666245092
+[WARNING/2025-02-26 16:46:45,602] __main__: ==================== PATTERN ====================
+[WARNING/2025-02-26 16:46:45,602] __main__: .*всем.*
+[WARNING/2025-02-26 16:46:45,602] __main__: Bot started:
+[WARNING/2025-02-26 16:46:57,323] __main__: Closing bot...
